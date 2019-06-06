@@ -1,5 +1,5 @@
 // Configuration & Settings
-const yourID = "293485395138838528"; //Instructions on how to get this: https://redd.it/40zgse
+const yourID = "158063324699951104"; //Instructions on how to get this: https://redd.it/40zgse
 const setupCMD = "!createrolemessage";
 const initialMessage = `**React to the messages below to receive the associated role. If you would like to remove the role, simply remove your reaction!**`;
 const embedMessage = `
