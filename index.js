@@ -13,7 +13,7 @@ const reactions = ["blyat", "🖌", "😃", "🆕", "🍏"]; // For custom emoji
 const embed = true; // Set to "true" if you want all roles to be in a single embed
 const embedColor = "#ed0886"; // Set the embed color if the "embed" variable is set to true
 const embedThumbnail = true; // Set to "true" if you want to set a thumbnail in the embed
-const embedThumbnailLink = "https://imgur.com/Zm6L8gh"; // The link for the embed thumbnail
+const embedThumbnailLink = "https://ibb.co/DwqWFdy"; // The link for the embed thumbnail
 
 const botToken = (process.env.token)
 /**
