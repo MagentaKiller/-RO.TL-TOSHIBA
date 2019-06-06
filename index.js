@@ -10,8 +10,8 @@ If you would like to remove the role, simply remove your reaction!
 const embedFooter = "Role Reactions"; // Must set this if "embed" is set to true
 const roles = ["Nitain", "Riven", "Helmet", "Baro", "Warframeuri"];
 const reactions = ["blyat", "🖌", "😃", "🆕", "🍏"]; // For custom emojis, provide the name of the emoji
-const embed = false; // Set to "true" if you want all roles to be in a single embed
-const embedColor = "#dd2423"; // Set the embed color if the "embed" variable is set to true
+const embed = true; // Set to "true" if you want all roles to be in a single embed
+const embedColor = "#c709ed"; // Set the embed color if the "embed" variable is set to true
 const embedThumbnail = true; // Set to "true" if you want to set a thumbnail in the embed
 const embedThumbnailLink = "https://i.imgur.com/P8PD7DD.png"; // The link for the embed thumbnail
 
