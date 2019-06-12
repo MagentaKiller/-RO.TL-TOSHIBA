@@ -3,9 +3,7 @@ const yourID = "293485395138838528"; //Instructions on how to get this: https://
 const setupCMD = "!on";
 const initialMessage = `Fiecare react are cate un rol separat`;
 const embedMessage = `
-React to the emoji that matches the role you wish to receive.
-
-If you would like to remove the role, simply remove your reaction!
+Masinaria de mentionat-persoane-inator
 `;
 const embedFooter = "Role Reactions"; // Must set this if "embed" is set to true
 const roles = ["Nitain", "Riven", "Helmet", "Baro", "Warframeuri", "Reactor", "Catalyst", "Exilus", "Aura"];
