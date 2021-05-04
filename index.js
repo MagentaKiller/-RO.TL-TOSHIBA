@@ -3,11 +3,11 @@ const yourID = "293485395138838528"; //Instructions on how to get this: https://
 const setupCMD = "!on";
 const initialMessage = ``;
 const embedMessage = `
-You will be mentioned when an item will apear!
+This is handicap badge, react to get handicap role
 `;
-const embedFooter = "Role Reactions"; // Must set this if "embed" is set to true
+const embedFooter = "Handicap acces card"; // Must set this if "embed" is set to true
 const roles = ["Braindead" ,];
-const reactions = ["bone" ,]; 
+const reactions = ["Braindead" ,]; 
 const embed = true; // Set to "true" if you want all roles to be in a single embed
 const embedColor = "#ed0886"; // Set the embed color if the "embed" variable is set to true
 const embedThumbnail = true; // Set to "true" if you want to set a thumbnail in the embed
