@@ -6,8 +6,8 @@ const embedMessage = `
 You will be mentioned when an item will apear!
 `;
 const embedFooter = "Role Reactions"; // Must set this if "embed" is set to true
-const roles = ["Nitain", "Riven", "Helmet", "Baro", "Reactor", "Catalyst", "Exilus", "Forma", "Invasions", "News", "Wraith", "Vandal", "Alerts"];
-const reactions = ["Nitain", "RivenMod", "HelmetBlueprint", "VoidTraderBaro", "Reactor", "Catalyst", "Exilus", "Forma", "Invasion", "New", "Wraith", "Vandal", "Warning"]; 
+const roles = ["AYO, E GATA BUMBACU? (BOT)" ];
+const reactions = ["bone" ]; 
 const embed = true; // Set to "true" if you want all roles to be in a single embed
 const embedColor = "#ed0886"; // Set the embed color if the "embed" variable is set to true
 const embedThumbnail = true; // Set to "true" if you want to set a thumbnail in the embed
